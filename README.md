@@ -1,2 +1,2 @@
-# ksenthoor.github.io
-Persoanl website
+# Kaushik Senthoor
+Personal website
