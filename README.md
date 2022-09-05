@@ -1,5 +1,4 @@
 # Kaushik Senthoor
-Personal website
+PhD scholar at IIT Madras
 
-# Build settings
-theme: minima
+You can find my ggogle Scholar page [here](https://scholar.google.com/citations?hl=en&user=A2XSWuUAAAAJ&view_op=list_works&sortby=pubdate).
