@@ -4,4 +4,6 @@ I currently work in the area of quantum error control codes. More specifically, 
 
 You can find a list of my publications [here](https://scholar.google.com/citations?hl=en&user=A2XSWuUAAAAJ&view_op=list_works&sortby=pubdate).
 
+![Image](https://upload.wikimedia.org/wikipedia/commons/4/40/Triple_Yin_Yang.svg)
+
 (This website is under construction.)
