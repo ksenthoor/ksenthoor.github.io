@@ -6,4 +6,4 @@ You can find a list of my publications [here](https://scholar.google.com/citatio
 
 (This website is under construction.)
 
-![Image]([https://upload.wikimedia.org/wikipedia/commons/4/40/Triple_Yin_Yang.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yin_and_Yang_symbol.svg/250px-Yin_and_Yang_symbol.svg.png)
+![Image](https://upload.wikimedia.org/wikipedia/commons/4/40/Triple_Yin_Yang.svg)
