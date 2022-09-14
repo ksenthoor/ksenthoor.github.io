@@ -1,6 +1,7 @@
 title : 
 author :
-theme : minima
+<!--theme : minima-->
+remote theme : just-the-docs/just-the-docs
 description : 
 tagline : sample tagline
 logo: top
