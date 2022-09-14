@@ -4,6 +4,6 @@
 
 <!-- You can find a list of my publications [here](https://scholar.google.com/citations?hl=en&user=A2XSWuUAAAAJ&view_op=list_works&sortby=pubdate). -->
 
-<!-- (This website is under construction.) -->
+(This website is under construction.)
 
 <!-- ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yin_and_Yang_symbol.svg/250px-Yin_and_Yang_symbol.svg.png) -->
