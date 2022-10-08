@@ -1,0 +1,32 @@
+{"0": {
+    "doc": "Contact",
+    "title": "Contact",
+    "content": "You can mail me at kaushiksenthoor.rks@gmail.com. You can also ping me in LinkedIn. ",
+    "url": "/docs/contact/",
+    "relUrl": "/docs/contact/"
+  },"1": {
+    "doc": "Curriculum vitae",
+    "title": "Curriculum vitae",
+    "content": "My curriculum vitae can be found here. Academia . | Ph.D. specializing in Quantum Error Correcting Codes (2016-ongoing) Supervised by Prof. Pradeep Sarvepalli Indian Institute of Technology of Madras . | M.E. in Telecommunication (2012-2014) Supervised by Prof. P. Vijay Kumar Indian Institute of Science Bangalore . | B.Tech. in Electronics &amp; Communication Engineering (2008-2012) Amrita School of Engineering, Coimbatore . | . Work experience . | Project Associate in Codes and Signal Design lab (2015) Indian Institute of Science Bangalore | Engineer in Mobile-Video team (2014-2015) Ittiam Systems, Bangalore | . ",
+    "url": "/docs/curriculum-vitae/",
+    "relUrl": "/docs/curriculum-vitae/"
+  },"2": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "Kaushik Senthoor . I am a PhD scholar at Indian Institute of Technology Madras working under the supervision of Prof. Pradeep Sarvepalli. I currently work in the area of quantum error control codes. More specifically, my research focusses on reducing the communication cost for secret recovery in quantum secret sharing schemes using uantum codes. My areas of interest also include classical error control codes, information theory, distributed storage and signal processing. ",
+    "url": "/",
+    "relUrl": "/"
+  },"3": {
+    "doc": "Publications",
+    "title": "Publications",
+    "content": "The list below contains some of the publications related to my research work. For a full list, see my Google Scholar page. Recent pre-print . | To be added soon | . Journal papers . | Theory of communication efficient quantum secret sharing. arXiv K. Senthoor and P. K. Sarvepalli IEEE Transactions on Information Theory, 68(5), pp.3164-3186 (2022). | Communication efficient quantum secret sharing. arXiv K. Senthoor and P. K. Sarvepalli Physical Review A, 100(5), p.052313 (2019). | Outer bounds on the storage-repair bandwidth trade-off of exact-repair regenerating codes. arXiv B. Sasidharan, N. Prakash, M. N. Krishnan, M. Vajha, K. Senthoor and P. V. Kumar International Journal of Information and Coding Theory, 3(4), pp.255-298 (2016). | . Conferences . | Universal communication efficient quantum threshold secret sharing schemes. K. Senthoor and P. K. Sarvepalli IEEE Information Theory Workshop 2020. | Constructions for Communication Efficient Quantum Secret Sharing. K. Senthoor and P. K. Sarvepalli 18th Asian Quantum Information Science Conference, 2018. | Improved layered regenerating codes characterizing the exact-repair storage-repair bandwidth tradeoff for certain parameter sets. K. Senthoor, B. Sasidharan and P. V. Kumar IEEE Information Theory Workshop 2015. | An improved outer bound on the storage-repair-bandwidth tradeoff of exact-repair regenerating codes. B. Sasidharan, K. Senthoor and P. V. Kumar IEEE International Symposium on Information Theory 2014. | . ",
+    "url": "/docs/publications/",
+    "relUrl": "/docs/publications/"
+  },"4": {
+    "doc": "Research work",
+    "title": "Research work",
+    "content": "Communication cost for secret recovery in Quantum Secret Sharing . Quantum secret sharing, or QSS, is a cryptographic primitive where a secret is encoded into quantum information and securely distributed among multiple parties. In QSS schemes, only authorized sets of parties are allowed to recover the information about the secret while unauthorized sets cannot recover any information on the secret. My work with Prof. Pradeep Sarvepalli at IIT Madras proposed QSS schemes, based on quantum error correcting codes, which aim at reducing the communication cost during secret recovery. We introduced the class of Communication Efficient Quantum Secret Sharing schemes which reduce communication cost while accessing more than necessary number of parties [1]. We derived the bound on communication cost for such schemes and provided two optimal constructions [2]. Storage cost - repair bandwith tradeoff in Regenerating codes . Regenerating codes are classical codes used for distributed storage which focus on two parameters. 1) How much memory space is needed to store the data reliably across multiple nodes? 2) How much bandwidth is needed while repairing one of the failed nodes? There exists a tradeoff between these two parameters whose extreme points had been characterized earlier. However the interior points of the tradeoff are yet to be fully characterized. My work in Codes and Signal Design lab at IISc jointly with Birenjith Sasidharan and Prof. Vijay Kumar helped towards a better characterization of this tradeoff. Our work involved two approaches. First, we built upon an exisiting information-theoretic approach to tighten the outer bound of the tradeoff [3]. We also proposed a class of regenerating codes called improved layered codes which were closer to the tradeoff and even optimal under certain conditions [4]. Other areas &amp; skills . I have worked in projects studying compressed sensing and image processing as part of my academic work. I have experience in programming languages C and MATLAB, and familiarity with C++ and assembly language. ",
+    "url": "/docs/research-work/",
+    "relUrl": "/docs/research-work/"
+  }
+}
