@@ -10,4 +10,4 @@ permalink: /
 
 I am a PhD scholar at Indian Institute of Technology Madras working under the supervision of Prof. Pradeep Sarvepalli.
 
-I currently work in the area of quantum error control codes. More specifically, my research focusses on reducing the communication cost for secret recovery in quantum secret sharing schemes using uantum codes. My areas of interest also include classical error control codes, information theory, distributed storage and signal processing.
+I currently work in the area of quantum error coreecting codes. My research problem is about reducing the communication cost for secret recovery in quantum secret sharing schemes using quantum codes. My areas of interest also include classical error correcting codes, information theory, distributed storage and signal processing.
