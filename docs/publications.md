@@ -4,7 +4,7 @@ title: Publications
 nav_order: 4
 ---
 
-The list below contains some of the publications focussing my research work. For a full list, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=A2XSWuUAAAAJ&view_op=list_works&sortby=pubdate) page.
+The list below contains some of the publications focussing my research work. For the full list, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=A2XSWuUAAAAJ&view_op=list_works&sortby=pubdate) page.
 
 **Recent pre-print**
 - To be added soon
