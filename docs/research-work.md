@@ -12,7 +12,7 @@ My work with Prof. Pradeep Sarvepalli at IIT Madras proposed QSS schemes, based 
 We introduced the class of _Communication Efficient Quantum Secret Sharing_ schemes which reduce communication cost while accessing more than necessary number of parties [[1]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.052313).
 We derived the bound on communication cost for such schemes and provided two optimal constructions [[2]](https://ieeexplore.ieee.org/abstract/document/9674910/).
 
-**Storage cost - repair bandwith tradeoff in Regenerating codes**
+<br>**Storage cost - repair bandwith tradeoff in Regenerating codes**
 
 Regenerating codes are classical codes used for distributed storage which focus on two parameters.
 <br>_1) How much memory space is needed to store the data reliably across multiple nodes?_
@@ -24,7 +24,7 @@ Our work involved two approaches.
 First, we built upon an exisiting information-theoretic approach to tighten the outer bound of the tradeoff [[3]](https://ieeexplore.ieee.org/abstract/document/6875270/).
 We also proposed a class of regenerating codes called improved layered codes which were closer to the tradeoff and even optimal under certain conditions [[4]](https://ieeexplore.ieee.org/abstract/document/7133121/).
 
-**Other areas & skills**
+<br>**Other areas & skills**
 
 I have worked in projects studying compressed sensing and image processing as part of my academic work.
 I have experience in programming languages C and MATLAB, and familiarity with C++ and assembly language.
