@@ -27,4 +27,4 @@ We also proposed a class of regenerating codes called improved layered codes whi
 <br>**Other areas & skills**
 
 I have worked in projects studying compressed sensing and image processing as part of my academic work.
-I have experience in programming languages C and MATLAB, and familiarity with C++ and assembly language.
+I have experience in programming languages C, C++, MATLAB and assembly language.
