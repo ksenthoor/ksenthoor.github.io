@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /
 ---
 
-![Image](/self_portrait.jpg)
+![Image](/assets/images/yin_yang_wikipedia.jpg)
 
 I am a PhD scholar at Indian Institute of Technology Madras working under the supervision of Prof. Pradeep Sarvepalli.
 
