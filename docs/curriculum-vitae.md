@@ -2,6 +2,7 @@
 layout: default
 title: Curriculum vitae
 nav_order: 2
+permalink: /curriculum-vitae/
 ---
 
 My curriculum vitae can be found [here](https://www.google.com).
@@ -22,5 +23,6 @@ My curriculum vitae can be found [here](https://www.google.com).
 **Work experience**
 - _Project Associate_ in _Codes and Signal Design lab_ (2015)
 <br> Indian Institute of Science Bangalore
+
 - _Engineer_ in _Mobile-Video team_ (2014-2015)
 <br> Ittiam Systems, Bangalore

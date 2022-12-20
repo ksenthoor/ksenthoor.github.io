@@ -6,11 +6,16 @@ nav_order: 1
 permalink: /
 ---
 
-Kaushik Senthoor
-{: .fs-8 }
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yin_and_Yang_symbol.svg/250px-Yin_and_Yang_symbol.svg.png)
 
-I am a PhD scholar at Indian Institute of Technology Madras working under the supervision of Prof. Pradeep Sarvepalli.
+I am currently completing my PhD programme at Indian Institute of Technology Madras under the supervision of Prof. Pradeep Sarvepalli.
 
-I currently work in the area of quantum error control codes. More specifically, my research focusses on reducing the communication cost for secret recovery in quantum secret sharing schemes using uantum codes. My areas of interest also include classical error control codes, information theory, distributed storage and signal processing.
+My research is in the area of quantum error control codes. More specifically, my work focusses on reducing the communication cost for secret recovery in quantum secret sharing schemes. In the past, I also worked on problems in compressed sensing, image processing and distributed storage codes.
+
+<br>
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=A2XSWuUAAAAJ&view_op=list_works&sortby=pubdate)
+&emsp;[GitHub](https://github.com/ksenthoor)
+&emsp;[LinkedIn](https://in.linkedin.com/in/kaushik-senthoor)
+&emsp;[Mastodon](https://qubit-social.xyz/web/@ksenthoor)
+
+
