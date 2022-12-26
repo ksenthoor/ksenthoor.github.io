@@ -14,7 +14,6 @@ My research is in the area of quantum error correction codes. More specifically,
 
 <br>
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=A2XSWuUAAAAJ&view_op=list_works&sortby=pubdate)
-&emsp;[GitHub](https://github.com/ksenthoor)
 &emsp;[LinkedIn](https://in.linkedin.com/in/kaushik-senthoor)
 &emsp;[Mastodon](https://qubit-social.xyz/web/@ksenthoor)
 
