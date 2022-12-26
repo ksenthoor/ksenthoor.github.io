@@ -23,4 +23,4 @@ However the interior points of the tradeoff are yet to be fully characterized.
 My work in Codes and Signal Design lab at IISc jointly with Birenjith Sasidharan and Prof. Vijay Kumar helped towards a better characterization of this tradeoff.
 Our work involved two approaches.
 First, we built upon an exisiting information-theoretic approach to tighten the outer bound of the tradeoff [[3]](https://ieeexplore.ieee.org/abstract/document/6875270/).
-We also proposed a class of regenerating codes called improved layered codes which gave performance very close to the tradeoff and even optimal under certain conditions [[4]](https://ieeexplore.ieee.org/abstract/document/7133121/).
+We also proposed a class of regenerating codes called improved layered codes with parameters very close to the tradeoff and even optimal under certain conditions [[4]](https://ieeexplore.ieee.org/abstract/document/7133121/).
