@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /
 ---
 
-#![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yin_and_Yang_symbol.svg/250px-Yin_and_Yang_symbol.svg.png)
+<!---![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yin_and_Yang_symbol.svg/250px-Yin_and_Yang_symbol.svg.png)-->
 
 I am currently completing my PhD programme at Indian Institute of Technology Madras under the supervision of Prof. Pradeep Sarvepalli.
 
