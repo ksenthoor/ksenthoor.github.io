@@ -5,7 +5,7 @@ nav_order: 2
 permalink: /curriculum-vitae/
 ---
 
-My curriculum vitae can be found [here](https://www.google.com).
+My curriculum vitae can be found [here](/Kaushik_CV.pdf).
 
 **Academia**
 
