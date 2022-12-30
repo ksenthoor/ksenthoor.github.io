@@ -15,7 +15,7 @@ My curriculum vitae can be found [here](/Kaushik_CV.pdf).
 <br> Indian Institute of Technology of Madras
 
 - _M.E._ in _Telecommunication Engineering_
-2012-2014{:.float-right}
+[fg](www.google.com){:.float-right}
 <br> Supervised by [Prof. P. Vijay Kumar](https://ece.iisc.ac.in/~pvkece/)
 <br> Indian Institute of Science Bangalore
 
