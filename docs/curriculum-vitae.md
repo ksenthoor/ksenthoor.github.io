@@ -19,6 +19,11 @@ My curriculum vitae can be found [here](/Kaushik_CV.pdf).
 <br> Supervised by [Prof. P. Vijay Kumar](https://ece.iisc.ac.in/~pvkece/)
 <br> Indian Institute of Science Bangalore
 
+- [Communication efficient quantum secret sharing.](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.052313)
+[arXiv](https://arxiv.org/abs/1801.09500){:.float-right}
+<br>K. Senthoor and P. K. Sarvepalli
+<br>_Physical Review A_, 100(5), p.052313 (2019).
+
 - _B.Tech._ in _Electronics & Communication Engineering_
 (2008-2012){:.float-right}
 <br> Amrita School of Engineering, Coimbatore
