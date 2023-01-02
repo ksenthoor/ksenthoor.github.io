@@ -6,6 +6,7 @@ nav_order: 1
 permalink: /
 ---
 
+<div>
 <img src="/my_pic.jpeg" alt="My picture" width="200"/>
 <span>
 I am currently completing my PhD programme at Indian Institute of Technology Madras under the supervision of Prof. Pradeep Sarvepalli.
@@ -18,3 +19,4 @@ My research is in the area of quantum error correction codes. More specifically,
 &emsp;[Mastodon](https://qubit-social.xyz/web/@ksenthoor)}|
 
 <\span>
+<\div>
