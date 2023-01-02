@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /
 ---
 
-<img style="float: right" src="/my_pic.jpeg" alt="My picture" width="200"/>
+<img src="/my_pic.jpeg" alt="My picture" width="200"/> |
 I am currently completing my PhD programme at Indian Institute of Technology Madras under the supervision of Prof. Pradeep Sarvepalli.
 
 My research is in the area of quantum error correction codes. More specifically, my work focuses on reducing the communication cost for secret recovery in quantum secret sharing schemes. In the past, I also worked on problems in compressed sensing, image processing and distributed storage codes.
@@ -16,4 +16,4 @@ My research is in the area of quantum error correction codes. More specifically,
 &emsp;[LinkedIn](https://in.linkedin.com/in/kaushik-senthoor)
 &emsp;[Mastodon](https://qubit-social.xyz/web/@ksenthoor)
 
-
+|
