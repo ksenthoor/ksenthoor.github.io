@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div>
-<img src="/my_pic.jpeg" alt="My picture" width="200"/>
+<img src="/my_pic.jpeg" tyle="vertical-align:middle" alt="My picture" width="200"/>
 <span style="">
 I am currently completing my PhD programme at Indian Institute of Technology Madras under the supervision of Prof. Pradeep Sarvepalli.
 My research is in the area of quantum error correction codes.
