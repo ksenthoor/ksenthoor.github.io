@@ -6,7 +6,8 @@ nav_order: 1
 permalink: /
 ---
 
-![Image](/my_pic.jpeg)
+<img src="/my_pic.jpeg" alt="My picture" width="200"/>
+
 
 I am currently completing my PhD programme at Indian Institute of Technology Madras under the supervision of Prof. Pradeep Sarvepalli.
 
