@@ -9,25 +9,20 @@ My curriculum vitae can be found [here](/Kaushik_CV.pdf).
 
 **Academia**
 
-- _Ph.D._ specializing in _Quantum Error Correction Codes_
-<span style="float:right;">2016-ongoing</span>
+- _Ph.D._ specializing in _Quantum Error Correction Codes_ (2016-2023)
 <br> Supervised by [Prof. Pradeep Sarvepalli](https://www.ee.iitm.ac.in/pradeep/)
 <br> Indian Institute of Technology of Madras
 
-- _M.E._ in _Telecommunication Engineering_
-<span style="float:right;">2012-2014</span>
+- _M.E._ in _Telecommunication Engineering_ (2012-2014)
 <br> Supervised by [Prof. P. Vijay Kumar](https://ece.iisc.ac.in/~pvkece/)
 <br> Indian Institute of Science Bangalore
 
-- _B.Tech._ in _Electronics & Communication Engineering_
-<span style="float:right;">2008-2012</span>
+- _B.Tech._ in _Electronics & Communication Engineering_ (2008-2012)
 <br> Amrita School of Engineering, Coimbatore
 
 **Work experience**
-- _Project Associate_ in _Codes and Signal Design lab_
-<span style="float:right;">2015</span>
+- _Project Associate_ in _Codes and Signal Design lab_ (2015)
 <br> Indian Institute of Science Bangalore
 
-- _Engineer_ in _Mobile-Video team_
-<span style="float:right;">2014-2015</span>
+- _Engineer_ in _Mobile-Video team_ (2014-2015)
 <br> Ittiam Systems, Bangalore
