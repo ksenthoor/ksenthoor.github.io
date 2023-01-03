@@ -9,8 +9,8 @@ permalink: /research-work/
 
 Quantum secret sharing, or QSS, is a quantum cryptographic primitive where a secret is encoded into quantum information and distributed among multiple parties.
 In QSS schemes, only authorized sets of parties are allowed to recover the information about the secret while unauthorized sets cannot recover any information on the secret.
-During my research work with Prof. Pradeep Sarvepalli at IIT Madras, we studied the communication cost for secret recovery in threshold QSS schemes.
-We proposed the _Communication Efficient Quantum Secret Sharing_ (CE-QSS) schemes which are threshold QSS schemes with reduced comminication cost during secret recovery [[1]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.052313).
+During my research work with Prof. Pradeep Sarvepalli at IIT Madras, we studied the communication cost for secret recovery in QSS schemes.
+We proposed the _Communication Efficient Quantum Secret Sharing_ (CE-QSS) schemes which are QSS schemes with reduced comminication cost during secret recovery [[1]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.052313).
 We derived the bound on communication cost for such schemes and provided two optimal constructions [[2]](https://ieeexplore.ieee.org/abstract/document/9674910/).
 We later studied how concatenating extended CSS codes gives a general framework to construct such QSS schemes [[3]](https://arxiv.org/abs/2211.06910).
 
