@@ -6,7 +6,10 @@ nav_order: 1
 permalink: /
 ---
 
-<img src="/my_pic_125px.jpg" style="vertical-align:middle;" alt="My picture" width="125px"/>
+<img src="/my_pic_125px.jpg" alt="My picture" width="125px"/>
+<div class="image-cropper">
+  <img src="/my_pic_125px.jpg" class="rounded" />
+</div>
 
 <br>
 I am a research scholar completing my PhD programme at Indian Institute of Technology Madras. My research is in the area of quantum error correction codes. More specifically, my work focuses on reducing the communicationcost for secret recovery in quantum secret sharing schemes. In the past, I also worked on problems in compressed sensing, image processing and distributed storage codes. I am currently looking for a research position in academia or industry to work on quantum error correction and related topics.
