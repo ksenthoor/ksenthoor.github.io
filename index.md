@@ -9,7 +9,7 @@ permalink: /
 <img src="/my_pic_125px.jpg" style="vertical-align:middle;" alt="My picture" width="125px"/>
 
 <br>
-I am currently completing my PhD programme at Indian Institute of Technology Madras under the supervision of Prof. Pradeep Sarvepalli. My research is in the area of quantum error correction codes. More specifically, my work focuses on reducing the communication cost for secret recovery in quantum secret sharing schemes. In the past, I also worked on problems in compressed sensing, image processing and distributed storage codes.
+I am a research scholar completing my PhD programme at Indian Institute of Technology Madras. My research is in the area of quantum error correction codes. More specifically, my work focuses on reducing the communicationcost for secret recovery in quantum secret sharing schemes. In the past, I also worked on problems in compressed sensing, image processing and distributed storage codes. I am currently looking for a research position in academia or industry to work on quantum error correction and related topics.
   
 <br>  
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=A2XSWuUAAAAJ&view_op=list_works&sortby=pubdate)
