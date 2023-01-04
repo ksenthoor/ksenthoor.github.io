@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /
 ---
 
-<img src="/my_pic_circ_150px.jpg" alt="My picture" width="125px"/>
+<img src="/my_pic_circ_150px.png" alt="My picture" width="125px"/>
 <div class="image-cropper">
   <img src="/my_pic_125px.jpg" class="rounded" />
 </div>
