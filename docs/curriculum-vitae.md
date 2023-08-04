@@ -9,7 +9,7 @@ My curriculum vitae can be found [here](/Kaushik_CV.pdf).
 
 **Academia**
 
-- _Ph.D._ specializing in _Quantum Error Correction Codes_
+- _Ph.D._ in _Electrical Engineering_
 <span style="float:right"> 2016-2023 </span>
 <br> Supervised by [Prof. Pradeep Sarvepalli](https://www.ee.iitm.ac.in/pradeep/)
 <br> Indian Institute of Technology of Madras
