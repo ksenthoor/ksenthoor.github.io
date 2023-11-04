@@ -24,9 +24,9 @@ The list below contains some of the publications related to my research work. Fo
 <br>_International Journal of Information and Coding Theory_, 3(4), pp.255-298 (2016).
 
 **Conferences**
-- [Concatenating Extended CSS Codes for Communication Efficient Quantum Secret Sharing.](https://arxiv.org/abs/2211.06910)
+- [Concatenating Extended CSS Codes for Communication Efficient Quantum Secret Sharing.](https://ieeexplore.ieee.org/abstract/document/10273451)
 <br>K. Senthoor and P. K. Sarvepalli
-<br>_arXiv_, quant-ph/2211.06910, accepted for _International Symposium on Topics in Coding, 2023_.
+<br>_International Symposium on Topics in Coding, 2023_.
 
 - [Universal communication efficient quantum threshold secret sharing schemes.](https://ieeexplore.ieee.org/abstract/document/9457576/)
 <br>K. Senthoor and P. K. Sarvepalli
