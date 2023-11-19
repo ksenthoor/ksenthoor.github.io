@@ -24,6 +24,10 @@ My curriculum vitae can be found [here](/Kaushik_CV.pdf).
 <br> Amrita School of Engineering, Coimbatore
 
 **Work experience**
+- _Postdoctoral researcher_ in _QuTech_
+<span style="float:right"> 2023-Present </span>
+<br> Delft University of Technology
+
 - _Project Associate_ in _Codes and Signal Design lab_
 <span style="float:right"> 2015 </span>
 <br> Indian Institute of Science Bangalore
