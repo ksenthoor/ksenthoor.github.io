@@ -13,5 +13,4 @@ permalink: /
 <br>  
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=A2XSWuUAAAAJ&view_op=list_works&sortby=pubdate)
 &emsp;[LinkedIn](https://in.linkedin.com/in/kaushik-senthoor)
-&emsp;[Mastodon](https://qubit-social.xyz/web/@ksenthoor)
   
