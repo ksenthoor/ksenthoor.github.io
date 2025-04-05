@@ -15,9 +15,7 @@ codes.](https://ieeexplore.ieee.org/abstract/document/10486828/)
 <br>_IEEE Journal on Selected Areas in Communications_, 42(7), pp.1818-1829 (2024).
 
 - [Theory of communication efficient quantum secret sharing.](https://ieeexplore.ieee.org/abstract/document/9674910/)
-[errata](https://ieeexplore.ieee.org/document/10296519){:.float-right}
-[  ]{:.float-right}
-[arXiv](https://arxiv.org/abs/2101.12419){:.float-right}
+[errata](https://ieeexplore.ieee.org/document/10296519)  [arXiv](https://arxiv.org/abs/2101.12419){:.float-right}
 <br>K. Senthoor and P. K. Sarvepalli
 <br>_IEEE Transactions on Information Theory_, 68(5), pp.3164-3186 (2022).
 
