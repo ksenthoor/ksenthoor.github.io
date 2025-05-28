@@ -29,6 +29,11 @@ codes](https://ieeexplore.ieee.org/abstract/document/10486828/)
 <br>B. Sasidharan, N. Prakash, M. N. Krishnan, M. Vajha, K. Senthoor and P. V. Kumar
 <br>_International Journal of Information and Coding Theory_, 3(4), pp.255-298 (2016).
 
+**Preprint**
+- [Entanglement Cost of Erasure Correction in Quantum MDS Codes](https://arxiv.org/abs/2505.20284)
+<br>K. Senthoor
+<br>_arXiv_, quant-ph/2505.20284 (2025).
+
 **Conferences**
 - [Concatenating Extended CSS Codes for Communication Efficient Quantum Secret Sharing](https://ieeexplore.ieee.org/abstract/document/10273451)
 <br>K. Senthoor and P. K. Sarvepalli
