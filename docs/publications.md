@@ -7,6 +7,11 @@ permalink: /publications/
 
 The list below contains some of the publications related to my research work. For a full list, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=A2XSWuUAAAAJ&view_op=list_works&sortby=pubdate) page.
 
+**Preprint**
+- [Entanglement Cost of Erasure Correction in Quantum MDS Codes](https://arxiv.org/abs/2505.20284)
+<br>K. Senthoor
+<br>_arXiv_, quant-ph/2505.20284 (2025).
+
 **Journal papers**
 - [Communication efficient quantum secret sharing via extended CSS
 codes](https://ieeexplore.ieee.org/abstract/document/10486828/)
@@ -28,11 +33,6 @@ codes](https://ieeexplore.ieee.org/abstract/document/10486828/)
 [arXiv](https://arxiv.org/abs/1606.04467){:.float-right}
 <br>B. Sasidharan, N. Prakash, M. N. Krishnan, M. Vajha, K. Senthoor and P. V. Kumar
 <br>_International Journal of Information and Coding Theory_, 3(4), pp.255-298 (2016).
-
-**Preprint**
-- [Entanglement Cost of Erasure Correction in Quantum MDS Codes](https://arxiv.org/abs/2505.20284)
-<br>K. Senthoor
-<br>_arXiv_, quant-ph/2505.20284 (2025).
 
 **Conferences**
 - [Concatenating Extended CSS Codes for Communication Efficient Quantum Secret Sharing](https://ieeexplore.ieee.org/abstract/document/10273451)
