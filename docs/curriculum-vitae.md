@@ -24,8 +24,12 @@ My curriculum vitae can be found [here](/Kaushik_CV.pdf).
 <br> Amrita School of Engineering, Coimbatore
 
 **Work experience**
+- _Postdoctoral researcher_ in [Dr. Yingkai Ouyang](https://sheffield.ac.uk/mps/people/all-academic-staff/yingkai-ouyang/)'s group
+<span style="float:right"> 2026-Present </span>
+<br> University of Sheffield
+
 - _Postdoctoral researcher_ in [Prof. Stephanie Wehner](https://qutech.nl/person/stephanie-wehner/)'s group
-<span style="float:right"> 2023-Present </span>
+<span style="float:right"> 2023-2025 </span>
 <br> QuTech, Delft University of Technology
 
 - _Project Associate_ in _Codes and Signal Design lab_
