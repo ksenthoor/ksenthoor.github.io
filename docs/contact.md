@@ -5,5 +5,5 @@ permalink: /contact/
 nav_order: 6
 ---
 
-You can mail me at [r.k.senthoor@tudelft.nl](mailto:r.k.senthoor@tudelft.nl). You can also ping me in [LinkedIn](https://in.linkedin.com/in/kaushik-senthoor).
+You can mail me at [k.s.rajendran@sheffield.ac.uk](mailto:k.s.rajendran@sheffield.ac.uk). You can also ping me in [LinkedIn](https://www.linkedin.com/in/kaushik-senthoor).
 
