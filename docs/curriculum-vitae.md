@@ -7,7 +7,7 @@ permalink: /curriculum-vitae/
 
 My curriculum vitae can be found [here](/Kaushik_CV.pdf).
 
-**Academia**
+**Education**
 
 - _Ph.D._ in _Electrical Engineering_
 <span style="float:right"> 2016-2023 </span>
